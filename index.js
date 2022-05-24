@@ -9,4 +9,4 @@ function reverse_a_number(n)
   }
 
 let num = prompt("Enter Number to Reverse: ");
-console.log(reverse_a_number(num));
+console.log("Reverse Number is : " + Number(reverse_a_number(num)));
